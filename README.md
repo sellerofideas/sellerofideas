@@ -5,13 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sellerofideas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sellerofideas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div>  
-  🔭 Estpu trabalhando em uma plataforma para artistas, logo o link estará aqui no meu perfil.
-  🌱 No momento estou estudando HTML5, CSS3, JavaScript e reestudando Java para Web, o objetivo é me tornar Desenvolvedor Full-Stack.
-  💬 Pergunte-me sobre: Porque começar com Java hahaha
-  📫 Me encontre nos links do perfil!
-  ⚡ Além de programador sou cantor, ator. Como um bom geminiano quero fazer várias coisas aleatórias hahaha
-</div>
+ 
+ - 🔭 Estpu trabalhando em uma plataforma para artistas, logo o link estará aqui no meu perfil.
+ - 🌱 No momento estou estudando HTML5, CSS3, JavaScript e reestudando Java para Web, o objetivo é me tornar Desenvolvedor Full-Stack.
+ - 💬 Pergunte-me sobre: Porque começar com Java hahaha
+ - 📫 Me encontre nos links do perfil!
+ - ⚡ Além de programador sou cantor, ator. Como um bom geminiano quero fazer várias coisas aleatórias hahaha
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
