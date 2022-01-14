@@ -17,6 +17,10 @@
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
 </div>
+ 
+ <div align="center">
+    <img align="center" src=".\img\coffee-lover-hot-coffee.gif" alt="Cafezin"  width="150px" />
+</div>
   
 ##
  
