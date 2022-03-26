@@ -1,5 +1,5 @@
 ### Olá! Eu sou Wesley Lourenço 👋
-- 🔭 Estpu trabalhando em uma plataforma para artistas, logo o link estará aqui no meu perfil.
+- 🔭 Estudo trabalhando em uma plataforma para artistas, logo o link estará aqui no meu perfil.
  - 🌱 No momento estou estudando HTML5, CSS3, JavaScript e reestudando Java para Web, o objetivo é me tornar Desenvolvedor Full-Stack.
  - 💬 Pergunte-me sobre: Porque começar com Java hahaha
  - 📫 Me encontre nos links do perfil!
