@@ -32,7 +32,7 @@
    <a href="https://discord.gg/8CCDG9tT" target="_blank"><img src="https://img.shields.io/badge/Discord-8CCDG9tT?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:thesellerofideas8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/sellerofideas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://sellerofideas.github.io/estudando-html5-css3/" target="_blank"><img src="https://img.shields.io/badge/-Site HTML5-0000ff?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+    <a href="https://sellerofideas.github.io/treinamento/" target="_blank"><img src="https://img.shields.io/badge/-Site HTML5 e CSS3-0000ff?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/sellerofideas/sellerofideas/blob/output/github-contribution-grid-snake.svg)
  
