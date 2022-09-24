@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wesley Lourenço 👋
 - 🔭 Desenvolvedor web Júnior freelancer.
- - 🌱 No momento estou cursando engenharia de software e também sigo estudando HTML5, CSS3, JavaScript, Java para Web, o objetivo é me tornar Desenvolvedor Full-Stack.
+ - 🌱 No momento estou cursando engenharia de software e também sigo estudando HTML5, CSS3, JavaScript, Java para Web, o objetivo é me tornar engenheiro de software.
  - 💬 Pergunte-me sobre: Empreendedorismo e desenvolvimento pessoal.
  - 📫 Me encontre nos links do perfil!
  - ⚡ Além de programador também sou artista em desenvolvimento.
